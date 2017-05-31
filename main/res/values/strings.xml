@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cliente</string>
+    <string name="AvisoOperacion">This operation may last for a few minutes</string>
+</resources>

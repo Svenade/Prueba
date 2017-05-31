@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    //Dimensiones de la pantalla
+    <dimen name="alto">1500px</dimen>
+    <dimen name="ancho">844px</dimen>
+    <dimen name="tamañoTexto">60px</dimen>
+
+    //Dimensiones imagenes
+    <dimen name="btnPequeños">150px</dimen>
+    <dimen name="btnGrandes">195px</dimen>
+    <dimen name="lblInfoConexion">170px</dimen>
+    <dimen name="txtCodigo">141px</dimen>
+    <dimen name="titulo">313px</dimen>
+</resources>
